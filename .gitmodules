@@ -1,0 +1,24 @@
+[submodule "1password-cli"]
+	path = 1password-cli
+	url = https://aur.archlinux.org/1password-cli.git
+[submodule "ghdl"]
+	path = ghdl
+	url = https://aur.archlinux.org/ghdl.git
+[submodule "gnucash"]
+	path = gnucash
+	url = https://aur.archlinux.org/gnucash.git
+[submodule "oh-my-zsh-git"]
+	path = oh-my-zsh-git
+	url = https://aur.archlinux.org/oh-my-zsh-git.git
+[submodule "pacvis-git"]
+	path = pacvis-git
+	url = https://aur.archlinux.org/pacvis-git.git
+[submodule "ttf-opensans"]
+	path = ttf-opensans
+	url = https://aur.archlinux.org/ttf-opensans.git
+[submodule "vimb-git"]
+	path = vimb-git
+	url = https://aur.archlinux.org/vimb-git.git
+[submodule "visual-studio-code-bin"]
+	path = visual-studio-code-bin
+	url = https://aur.archlinux.org/visual-studio-code-bin.git
