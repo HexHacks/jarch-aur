@@ -22,3 +22,6 @@
 [submodule "visual-studio-code-bin"]
 	path = visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin.git
+[submodule "ibm-plex-fonts"]
+	path = ibm-plex-fonts
+	url = https://aur.archlinux.org/ibm-plex-fonts.git
