@@ -25,3 +25,6 @@
 [submodule "ibm-plex-fonts"]
 	path = ibm-plex-fonts
 	url = https://aur.archlinux.org/ibm-plex-fonts.git
+[submodule "xrdp-git"]
+	path = xrdp-git
+	url = https://aur.archlinux.org/xrdp-git.git
