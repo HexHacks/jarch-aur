@@ -28,3 +28,6 @@
 [submodule "openh264-git"]
 	path = openh264-git
 	url = https://aur.archlinux.org/openh264-git.git
+[submodule "sway-git"]
+	path = sway-git
+	url = https://aur.archlinux.org/sway-git.git
