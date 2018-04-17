@@ -25,3 +25,9 @@
 [submodule "ibm-plex-fonts"]
 	path = ibm-plex-fonts
 	url = https://aur.archlinux.org/ibm-plex-fonts.git
+[submodule "freerdp-git"]
+	path = freerdp-git
+	url = https://aur.archlinux.org/freerdp-git.git
+[submodule "openh264-git"]
+	path = openh264-git
+	url = https://aur.archlinux.org/openh264-git.git
