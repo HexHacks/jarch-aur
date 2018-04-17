@@ -16,9 +16,6 @@
 [submodule "ttf-opensans"]
 	path = ttf-opensans
 	url = https://aur.archlinux.org/ttf-opensans.git
-[submodule "vimb-git"]
-	path = vimb-git
-	url = https://aur.archlinux.org/vimb-git.git
 [submodule "visual-studio-code-bin"]
 	path = visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin.git
