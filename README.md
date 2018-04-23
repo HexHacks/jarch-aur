@@ -1,3 +1,2 @@
-# Jacob's AUR packages
-
-Packages that I use in my system(s).
+# module_pks
+Here I gather groups of packages built together.

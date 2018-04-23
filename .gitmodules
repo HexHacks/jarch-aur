@@ -29,5 +29,20 @@
 	path = openh264-git
 	url = https://aur.archlinux.org/openh264-git.git
 [submodule "sway-git"]
-	path = sway-git
+	path = meta_pkgs/sway/sway-git
 	url = https://aur.archlinux.org/sway-git.git
+[submodule "wlc-git"]
+	path = meta_pkgs/sway/wlc-git
+	url = https://aur.archlinux.org/wlc-git
+[submodule "nvm"]
+	path = nvm
+	url = https://aur.archlinux.org/nvm.git
+[submodule "vim-youcompleteme-git"]
+	path = vim-youcompleteme-git
+	url = https://aur.archlinux.org/vim-youcompleteme-git.git
+[submodule "ncurses5-compat-libs"]
+	path = ncurses5-compat-libs
+	url = https://aur.archlinux.org/ncurses5-compat-libs.git
+[submodule "dropbox-cli"]
+	path = dropbox-cli
+	url = https://aur.archlinux.org/dropbox-cli.git
