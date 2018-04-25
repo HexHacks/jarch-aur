@@ -52,3 +52,6 @@
 [submodule "meta_pkgs/jupyter/jupyterlab"]
 	path = meta_pkgs/jupyter/jupyterlab
 	url = https://aur.archlinux.org/jupyterlab.git
+[submodule "meta_pkgs/jupyter/jupyterlab_launcher"]
+	path = meta_pkgs/jupyter/jupyterlab_launcher
+	url = https://aur.archlinux.org/jupyterlab_launcher.git
