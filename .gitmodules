@@ -44,5 +44,11 @@
 	path = ncurses5-compat-libs
 	url = https://aur.archlinux.org/ncurses5-compat-libs.git
 [submodule "dropbox-cli"]
-	path = dropbox-cli
+	path = meta_pkgs/dropbox/dropbox-cli
 	url = https://aur.archlinux.org/dropbox-cli.git
+[submodule "meta_pkgs/dropbox/dropbox"]
+	path = meta_pkgs/dropbox/dropbox
+	url = https://aur.archlinux.org/dropbox.git
+[submodule "meta_pkgs/jupyter/jupyterlab"]
+	path = meta_pkgs/jupyter/jupyterlab
+	url = https://aur.archlinux.org/jupyterlab.git
