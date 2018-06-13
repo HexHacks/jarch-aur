@@ -7,9 +7,6 @@
 [submodule "gnucash"]
 	path = nodeps_pkgs/gnucash
 	url = https://aur.archlinux.org/gnucash.git
-[submodule "oh-my-zsh-git"]
-	path = oh-my-zsh-git
-	url = https://aur.archlinux.org/oh-my-zsh-git.git
 [submodule "pacvis-git"]
 	path = nodeps_pkgs/pacvis-git
 	url = https://aur.archlinux.org/pacvis-git.git
