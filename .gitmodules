@@ -1,32 +1,32 @@
 [submodule "1password-cli"]
-	path = 1password-cli
+	path = nodeps_pkgs/1password-cli
 	url = https://aur.archlinux.org/1password-cli.git
 [submodule "ghdl"]
-	path = ghdl
+	path = nodeps_pkgs/ghdl
 	url = https://aur.archlinux.org/ghdl.git
 [submodule "gnucash"]
-	path = gnucash
+	path = nodeps_pkgs/gnucash
 	url = https://aur.archlinux.org/gnucash.git
 [submodule "oh-my-zsh-git"]
 	path = oh-my-zsh-git
 	url = https://aur.archlinux.org/oh-my-zsh-git.git
 [submodule "pacvis-git"]
-	path = pacvis-git
+	path = nodeps_pkgs/pacvis-git
 	url = https://aur.archlinux.org/pacvis-git.git
 [submodule "ttf-opensans"]
-	path = ttf-opensans
+	path = nodeps_pkgs/ttf-opensans
 	url = https://aur.archlinux.org/ttf-opensans.git
 [submodule "visual-studio-code-bin"]
-	path = visual-studio-code-bin
+	path = nodeps_pkgs/visual-studio-code-bin
 	url = https://aur.archlinux.org/visual-studio-code-bin.git
 [submodule "ibm-plex-fonts"]
-	path = ibm-plex-fonts
+	path = nodeps_pkgs/ibm-plex-fonts
 	url = https://aur.archlinux.org/ibm-plex-fonts.git
 [submodule "freerdp-git"]
-	path = freerdp-git
+	path = meta_pkgs/freerdp/freerdp-git
 	url = https://aur.archlinux.org/freerdp-git.git
 [submodule "openh264-git"]
-	path = openh264-git
+	path = meta_pkgs/freerdp/openh264-git
 	url = https://aur.archlinux.org/openh264-git.git
 [submodule "sway-git"]
 	path = meta_pkgs/sway/sway-git
@@ -35,13 +35,13 @@
 	path = meta_pkgs/sway/wlc-git
 	url = https://aur.archlinux.org/wlc-git
 [submodule "nvm"]
-	path = nvm
+	path = nodeps_pkgs/nvm
 	url = https://aur.archlinux.org/nvm.git
 [submodule "vim-youcompleteme-git"]
-	path = vim-youcompleteme-git
+	path = nodeps_pkgs/vim-youcompleteme-git
 	url = https://aur.archlinux.org/vim-youcompleteme-git.git
 [submodule "ncurses5-compat-libs"]
-	path = ncurses5-compat-libs
+	path = meta_pkgs/freerdp/ncurses5-compat-libs
 	url = https://aur.archlinux.org/ncurses5-compat-libs.git
 [submodule "dropbox-cli"]
 	path = meta_pkgs/dropbox/dropbox-cli
