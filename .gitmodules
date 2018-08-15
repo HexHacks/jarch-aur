@@ -52,3 +52,6 @@
 [submodule "meta_pkgs/jupyter/jupyterlab_launcher"]
 	path = meta_pkgs/jupyter/jupyterlab_launcher
 	url = https://aur.archlinux.org/jupyterlab_launcher.git
+[submodule "nodeps_pkgs/spotify"]
+	path = nodeps_pkgs/spotify
+	url = https://aur.archlinux.org/spotify.git
